@@ -1,0 +1,2 @@
+# Google-map
+gravity assignment
